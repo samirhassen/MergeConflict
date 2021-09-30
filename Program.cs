@@ -6,7 +6,11 @@ namespace MergeConflict
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Oz is Best!");
+
+            Console.WriteLine("Oz is Best :P ");
+
+            Console.WriteLine("Helloq Worqdld!");
+
         }
     }
 }
