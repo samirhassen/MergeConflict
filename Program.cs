@@ -7,9 +7,8 @@ namespace MergeConflict
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Oz is Best :P ");
-
-            Console.WriteLine("Helloq Worqdld!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Oz is absolut Best X) ");
 
         }
     }
