@@ -7,6 +7,7 @@ namespace MergeConflict
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            int elite = 1337;
         }
     }
 }
