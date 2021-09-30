@@ -6,7 +6,8 @@ namespace MergeConflict
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string message = "Levent has been here";
+            Console.WriteLine(message);
         }
     }
 }
