@@ -8,6 +8,7 @@ namespace MergeConflict
         {
             string message = "Levent has been here";
             Console.WriteLine(message);
+            Console.ReadLine();
         }
     }
 }
